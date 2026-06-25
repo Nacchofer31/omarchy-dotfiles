@@ -105,3 +105,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export JAVA_HOME=~/.local/share/JetBrains/Toolbox/apps/android-studio/jbr
+
+# Added by Android CLI installer
+export PATH="$PATH:/home/nacchofer31/.local/bin"
